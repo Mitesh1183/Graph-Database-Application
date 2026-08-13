@@ -4,6 +4,9 @@
 
 A read-only graph database explorer for microservice architectures. Built for the CognoDB interview assignment.
 
+**🚀 Live Demo:** [https://graph-database-application-eta.vercel.app](https://graph-database-application-eta.vercel.app)  
+**📦 Repository:** [https://github.com/Mitesh1183/Graph-Database-Application](https://github.com/Mitesh1183/Graph-Database-Application)
+
 ---
 
 ## Overview
@@ -230,6 +233,16 @@ Open [http://localhost:3000](http://localhost:3000).
 | `npm run db:seed` | Seed the database (idempotent) |
 | `npm run db:reset` | Delete all data (dev only) |
 | `npm run lint` | Run ESLint |
+
+---
+
+## Live Demo
+
+| | |
+|---|---|
+| **Hosted App** | [https://graph-database-application-eta.vercel.app](https://graph-database-application-eta.vercel.app) |
+| **GitHub Repo** | [https://github.com/Mitesh1183/Graph-Database-Application](https://github.com/Mitesh1183/Graph-Database-Application) |
+| **Screen Recording** | *(link to be added after recording)* |
 
 ---
 
