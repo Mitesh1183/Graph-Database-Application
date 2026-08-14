@@ -242,7 +242,7 @@ Open [http://localhost:3000](http://localhost:3000).
 |---|---|
 | **Hosted App** | [https://graph-database-application-eta.vercel.app](https://graph-database-application-eta.vercel.app) |
 | **GitHub Repo** | [https://github.com/Mitesh1183/Graph-Database-Application](https://github.com/Mitesh1183/Graph-Database-Application) |
-| **Screen Recording** | *(link to be added after recording)* |
+| **Screen Recording** | [https://www.loom.com/share/48da099dd7b042fc9e90c9859434e113](https://www.loom.com/share/48da099dd7b042fc9e90c9859434e113) |
 
 ---
 
